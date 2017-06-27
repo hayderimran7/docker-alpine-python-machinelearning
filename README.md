@@ -13,6 +13,7 @@ which is only a 60MB image, and contains popular Machine Leaning tools:
 * pandas
 * scipy
 * scikit-learn
+* matplotlib
 
 Download size of this image is only:
 
